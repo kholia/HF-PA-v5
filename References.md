@@ -1,0 +1,36 @@
+#### References
+
+- http://shop.qrp-labs.com/pa
+- http://shop.qrp-labs.com/kits/U3S
+- https://github.com/kholia/HF-PA-v3/
+- https://github.com/kholia/HF-PA-v2/
+- https://github.com/agustinmartino/wsjt_transceiver
+- https://www.qrp-labs.com/ultimate3/u3info/u3sbifilar.html
+- https://www.qsl.net/py2ohh/trx/peanuts/peanuts.html
+- https://www.qsl.net/py2ohh/trx/lpf100w/lpf100w.html (LPF filters)
+- http://hyse.org/pdf/www.aoc.nrao.edu/~pharden/hobby/_ClassDEF1.pdf
+- http://hyse.org/pdf/www.aoc.nrao.edu/~pharden/hobby/_ClassDEF2.pdf
+- http://thestone.zone/radio/2020/12/13/multi-watt-amplifier.html
+- http://thestone.zone/radio/2020/12/18/gate-driver-amplifier.html
+- http://thestone.zone/radio/2021/01/14/capacitors.html
+- http://thestone.zone/radio/2021/01/16/minor-enhancements.html
+- https://www.g0kla.com/scpa/SimpleCheapPA.php
+- https://www.linkedin.com/pulse/rf-pcb-design-rules-manufacturing-process-lisa-chu/
+- http://thestone.zone/radio/2021/06/04/attenuator.html
+- http://thestone.zone/radio/2021/06/05/power-amplifier.html
+- https://on7dq.blogspot.com/2020/12/qcx-mini-measurements.html
+- https://www.random-science-tools.com/electronics/dBm-Watts-volts.htm
+- https://www.mitsubishielectric.com/semiconductors/php/oSearch.php?FOLDER=/product/highfrequency/siliconrf/discrete
+- http://www.carnut.info/WSPR_Tx/WSPR_Tx.htm
+- https://sites.google.com/view/andy-g0ftd/iron-fist-transmitter
+- https://www.dj0abr.de/english/technik/dds/pa.htm
+- https://www.qsl.net/py2ohh/
+- https://hf5l.pl/en/transceiver-usdx-with-arduino-nano/#
+- http://www.m0rzf.co.uk/PA_Old/index.html
+- https://vk3hn.wordpress.com/2019/05/01/summit-prowler-6-a-pocket-sized-ssb-cw-transceiver-for-80-40-30-and-20m/
+- http://am-transmitter.blogspot.com/2014/07/protect-your-mosfet-final-stage.html
+- https://electronics.stackexchange.com/questions/11583/grounding-a-soldering-iron
+- http://hfsignals.blogspot.com/p/25-watt-linear-for-40-and-20.html
+- http://www.norcalqrp.org/nb6mminiboots.htm
+- https://github.com/RoGeorge/DS1054Z_screen_capture
+- https://github.com/profdc9/QRPAmplifier
